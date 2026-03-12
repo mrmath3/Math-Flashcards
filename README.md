@@ -1,54 +1,34 @@
 # Math Flashcards
 
-A collection of math flashcard decks for classroom practice and spaced repetition.
+Free math flashcard decks for students and teachers, built for spaced repetition and classroom games.
 
-Platforms supported:
-- Anki (.apkg and cloze CSV)
-- Blooket
-- Gimkit
-- Quizizz
-- Quizlet
+Decks are available on Anki and as CSVs for Blooket, Gimkit, Quizizz, and Quizlet.
 
 ---
 
-## Source Data
+## Available Decks
 
-All cards are maintained in a single Google Sheet (the master source of truth):
+### Trigonometry
 
-[flashcards_master on Google Sheets](https://docs.google.com/spreadsheets/d/11SzrA-74qZgYW9JXpe7LMXb8bDqxSQmL05X6VLYeLcA)
+| Deck | Anki | CSV |
+|------|------|-----|
+| Sin & Cos (Radians) | [Download on AnkiWeb](https://ankiweb.net/shared/info/671995919) | `exports/trig values sin cos radians.csv` |
+| Tan (Radians) | coming soon | `exports/trig values tan radians.csv` |
 
-The sheet contains the following tabs:
-- `cards_master` — all card data (ID, deck, question, answer, distractors)
-- `anki` — cloze-formatted output for Anki import
-- `export` — filtered export driven by `export_config`
-- `export_config` — set your deck and platform here before downloading CSV
+### Algebra
 
----
-
-## How to Export a Deck
-
-1. Open the Google Sheet
-2. Go to the `export_config` tab and set your desired deck and source tab
-3. Go to the `export` tab to confirm the filtered data looks correct
-4. File → Download → CSV
-5. Import into your platform of choice
+| Deck | Anki | CSV |
+|------|------|-----|
+| Squares & Square Roots 1–20 | coming soon | `exports/squares and square roots.csv` |
 
 ---
 
-## Download Decks
+## More Decks Coming
 
-Pre-exported files are available in the `exports/` folder.
+Planned topics include times tables, exponent rules, special right triangles, derivatives, and integrals.
 
-### Squares and Square Roots
+---
 
-| Format | File |
-|--------|------|
-| Anki (.apkg) | `exports/squares and square roots.apkg` |
-| CSV | `exports/squares and square roots.csv` |
+## How These Are Made
 
-### Trigonometry — Sin & Cos (Radians)
-
-| Format | File |
-|--------|------|
-| Anki (.apkg) | `exports/trig values sin cos radians.apkg` |
-| CSV | `exp
+Cards are maintained in a Google Sheet and exported to each platform. Content is generated and verified with the help of Claude, ChatGPT, and Gemini.
