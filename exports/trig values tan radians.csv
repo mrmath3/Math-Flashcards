@@ -1,0 +1,17 @@
+tan_rad_1,trig values tan radians,\(\tan(0)\) = {{c1::\(0\)}}
+tan_rad_2,trig values tan radians,\(\tan\left(\frac{\pi}{6}\right)\) = {{c1::\(\frac{\sqrt3}{3}\)}}
+tan_rad_3,trig values tan radians,\(\tan\left(\frac{\pi}{4}\right)\) = {{c1::\(1\)}}
+tan_rad_4,trig values tan radians,\(\tan\left(\frac{\pi}{3}\right)\) = {{c1::\(\sqrt3\)}}
+tan_rad_5,trig values tan radians,\(\tan\left(\frac{\pi}{2}\right)\) = {{c1::\(undefined\)}}
+tan_rad_6,trig values tan radians,\(\tan\left(\frac{2\pi}{3}\right)\) = {{c1::\(-\sqrt3\)}}
+tan_rad_7,trig values tan radians,\(\tan\left(\frac{3\pi}{4}\right)\) = {{c1::\(-1\)}}
+tan_rad_8,trig values tan radians,\(\tan\left(\frac{5\pi}{6}\right)\) = {{c1::\(-\frac{\sqrt3}{3}\)}}
+tan_rad_9,trig values tan radians,\(\tan(\pi)\) = {{c1::\(0\)}}
+tan_rad_10,trig values tan radians,\(\tan\left(\frac{7\pi}{6}\right)\) = {{c1::\(\frac{\sqrt3}{3}\)}}
+tan_rad_11,trig values tan radians,\(\tan\left(\frac{5\pi}{4}\right)\) = {{c1::\(1\)}}
+tan_rad_12,trig values tan radians,\(\tan\left(\frac{4\pi}{3}\right)\) = {{c1::\(\sqrt3\)}}
+tan_rad_13,trig values tan radians,\(\tan\left(\frac{3\pi}{2}\right)\) = {{c1::\(undefined\)}}
+tan_rad_14,trig values tan radians,\(\tan\left(\frac{5\pi}{3}\right)\) = {{c1::\(-\sqrt3\)}}
+tan_rad_15,trig values tan radians,\(\tan\left(\frac{7\pi}{4}\right)\) = {{c1::\(-1\)}}
+tan_rad_16,trig values tan radians,\(\tan\left(\frac{11\pi}{6}\right)\) = {{c1::\(-\frac{\sqrt3}{3}\)}}
+tan_rad_17,trig values tan radians,\(\tan(2\pi)\) = {{c1::\(0\)}}
