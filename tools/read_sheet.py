@@ -1,8 +1,9 @@
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 import json
+import os
 
-CREDS_FILE = "tools/credentials.json"
+CREDS_FILE = os.path.join(os.path.dirname(__file__), "credentials.json")
 SHEET_ID   = "11SzrA-74qZgYW9JXpe7LMXb8bDqxSQmL05X6VLYeLcA"
 
 SCOPES = [

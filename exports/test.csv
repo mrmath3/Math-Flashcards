@@ -1,0 +1,33 @@
+"Left Riemann Sum:
+<br><br>
+<table style=""border-collapse:collapse; text-align:center;"">
+  <tbody><tr>
+    <th style=""border:1px solid black; padding:6px;""><i>x</i></th>
+    <th style=""border:1px solid black; padding:6px;""><i>a</i></th>
+    <th style=""border:1px solid black; padding:6px;""><i>b</i></th>
+    <th style=""border:1px solid black; padding:6px;""><i>c</i></th>
+  </tr>
+  <tr>
+    <td style=""border:1px solid black; padding:6px;""><i>f</i>(<i>x</i>)</td>
+    <td style=""border:1px solid black; padding:6px;""><i>f</i>(<i>a</i>)</td>
+    <td style=""border:1px solid black; padding:6px;""><i>f</i>(<i>b</i>)</td>
+    <td style=""border:1px solid black; padding:6px;""><i>f</i>(<i>c</i>)</td>
+  </tr>
+</tbody></table>","Left Riemann Sum:
+<br>
+<i>(b</i> − <i>a)</i> · <i>f(a)</i> + <i>(c</i> − <i>b)</i> · <i>f(b)</i>
+<br><br>
+<table style=""border-collapse:collapse; text-align:center;"">
+  <tbody><tr>
+    <th style=""border:1px solid black; padding:6px;""><i>x</i></th>
+    <th style=""padding:6px; border-top:2px solid red; border-left:2px solid red; border-bottom:none; border-right:1px solid black;""><i>a</i></th>
+    <th style=""padding:6px; border-top:2px solid red; border-right:2px solid red; border-bottom:2px solid red; border-left:1px solid black;""><i>b</i></th>
+    <th style=""border:1px solid black; padding:6px;""><i>c</i></th>
+  </tr>
+  <tr>
+    <td style=""border:1px solid black; padding:6px;""><i>f</i>(<i>x</i>)</td>
+    <td style=""padding:6px; border-top:none; border-left:2px solid red; border-bottom:2px solid red; border-right:2px solid red;""><i>f</i>(<i>a</i>)</td>
+    <td style=""border:1px solid black; padding:6px;""><i>f</i>(<i>b</i>)</td>
+    <td style=""border:1px solid black; padding:6px;""><i>f</i>(<i>c</i>)</td>
+  </tr>
+</tbody></table>"
