@@ -57,6 +57,7 @@ For source files, export scripts, and project documentation, see the [repository
 | Location of Degrees on Unit Circle | 17 | | [Blooket](https://dashboard.blooket.com/set/624735782d4b22dbd3ec4063) | | | |
 | Unit Circle: Sine & Cosine Values (Radians) | 34 / 68 / 34 | [Anki](https://ankiweb.net/shared/info/1902887230) | [Blooket](https://dashboard.blooket.com/set/6261a97965e73b23f30d5cde) | [Gimkit](https://www.gimkit.com/view/68d6a73837e6acc6223b11d0) | | Blooket has 68 questions (degrees & radians combined) |
 | Unit Circle: Tangent Values (Radians) | 17 | [Anki](https://ankiweb.net/shared/info/593783325) | [Blooket](https://dashboard.blooket.com/set/6465d5317b68341a77071ba1) | [Gimkit](https://www.gimkit.com/view/69012fd1f7ed072005c8fa10) | | Gimkit missing cover art |
+| Unit Circle: Inverse Trig Values (Radians) | 25 | [Anki](https://ankiweb.net/shared/info/280256648) | [Blooket](https://dashboard.blooket.com/set/67eea7919b8cc2d64979bf69) | | | |
 | Trig Values of Special Angles (sin, cos, & tan)(radians) | 51 | | [Blooket](https://dashboard.blooket.com/set/67c9d31f24aed27addb497de) | | | Combo/review deck — not for first-time learning |
 | Sine & Cosine Values of Special Angles (Radians) — AP Precalculus 3.3 | 34 | | [Blooket](https://dashboard.blooket.com/set/67d18f112a1b339a856c0f16) | | | |
 | Inverse Trig: sin⁻¹, cos⁻¹, tan⁻¹ (Radians) — AP Precalculus 3.9 | 25 | | [Blooket](https://dashboard.blooket.com/set/67eea7919b8cc2d64979bf69) | | | |
