@@ -37,9 +37,7 @@ For source files, export scripts, and project documentation, see the [repository
 | Converting Fractions into Decimals | 58 | | [Blooket](https://dashboard.blooket.com/set/673f681a88451536bfb4fb42) | | | |
 | Find the Prime Number — Hard (1 to 100) | 100 | | [Blooket](https://dashboard.blooket.com/set/63586a8c875cf1ec9b927bf8) | | | |
 | **HS Math Facts** | | | | | | |
-| Squares and Square Roots 1-20 | 40 | [Anki](https://ankiweb.net/shared/info/1719832509) | | | | |
-| Squares (4 through 225) | 14 | | [Blooket](https://dashboard.blooket.com/set/662190316788e0792e2b0eb1) | | | |
-| Squares and Square Roots to 625 | 99 | | | [Gimkit](https://www.gimkit.com/view/68cdd0a6afdeb2e17231a96a) | | |
+| Squares & Square Roots (Combined Sets) | 40 / 99 | [Anki](https://ankiweb.net/shared/info/1719832509) | [Blooket](https://dashboard.blooket.com/set/662190316788e0792e2b0eb1) | [Gimkit](https://www.gimkit.com/view/68cdd0a6afdeb2e17231a96a) | | Combined coverage across platforms |
 | Higher Powers | 19 / 17 | [Anki](https://ankiweb.net/shared/info/1933271714) | [Blooket](https://dashboard.blooket.com/set/65ef2e7afc667180d7993196) | | | Anki deck is more complete — more cards to be added to Blooket |
 | Shapes of Functions | 45 | | [Blooket](https://dashboard.blooket.com/set/64f913ef881573b3e38a0e5a) | | | |
 | **Algebra 1** | | | | | | |
@@ -62,6 +60,9 @@ For source files, export scripts, and project documentation, see the [repository
 | Sine & Cosine Values of Special Angles (Radians) — AP Precalculus 3.3 | 34 | | [Blooket](https://dashboard.blooket.com/set/67d18f112a1b339a856c0f16) | | | |
 | Inverse Trig: sin⁻¹, cos⁻¹, tan⁻¹ (Radians) — AP Precalculus 3.9 | 25 | | [Blooket](https://dashboard.blooket.com/set/67eea7919b8cc2d64979bf69) | | | |
 | AP Precalculus 3.12: Equivalent Representations of Trig Functions | 26 | | [Blooket](https://dashboard.blooket.com/set/68027b1fbbcbef103e2556ae) | | | |
+| Trig Identities | ? | [Anki](https://ankiweb.net/shared/info/1717171780) | | | | |
+| **AP Calculus** | | | | | | |
+| AP Calculus AB - Winning Curriculum | ? | [Anki](https://ankiweb.net/shared/info/719564717) | | | | |
 | **Culinary Arts** | | | | | | |
 | Imperial (US) Cooking Measurement Conversions | 16 | | [Blooket](https://dashboard.blooket.com/set/6290ff5c2c1f08d7b17f6536) | | | |
 | Food Handler's Card Exam Prep | 79 | | [Blooket](https://dashboard.blooket.com/set/66c7b28faf3c7f0dd319a2e6) | | | |
